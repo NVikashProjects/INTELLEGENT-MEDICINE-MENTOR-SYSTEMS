@@ -1,0 +1,9 @@
+immsmain.c.o: IMMSMain.c.c
+immsmain.c.o: D:\ARM\INC\NXP\LPC17xx\lpc17xx.h
+immsmain.c.o: D:\\ARM\RV31\INC\core_cm3.h
+immsmain.c.o: D:\\ARM\RV31\INC\stdint.h
+immsmain.c.o: D:\ARM\INC\NXP\LPC17xx\system_LPC17xx.h
+immsmain.c.o: IMMSFunDefine.c
+immsmain.c.o: IMMSMacros.c
+immsmain.c.o: IMMSFunDeclar.c
+immsmain.c.o: IMMSVariables.c

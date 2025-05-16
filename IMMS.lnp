@@ -1,0 +1,4 @@
+--device DARMP1 "startup_lpc17xx.o" "immsmain.o" --strict --scatter "IMMS.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\IMMS.map" -o "IMMS.axf"

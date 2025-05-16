@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'IMMS.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"immsmain.o"'
+### ADS-LD Command completed:
+--device DARMP1 "startup_lpc17xx.o" "immsmain.o" --strict --scatter "IMMS.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\IMMS.map" -o "IMMS.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'IMMS.axf'
+### ADS-LD Command File: 'IMMS.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'IMMS.lnp', Handle=0x00000994
+### Writing '.lnp' file
+### ADS-LD Command file 'IMMS.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

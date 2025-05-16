@@ -1,0 +1,3 @@
+Dependencies for Project 'IMMS', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_LPC17xx.s)(0x4A9B5C22)(--device DARMP1 --pd "__EVAL SETA 1" -g --apcs=interwork -I "D:\\ARM\INC\NXP\LPC17xx" --list "startup_LPC17xx.lst" --xref -o "startup_LPC17xx.o")
+F (.\dutycycle.c)(0x670CA757)(-c --device DARMP1 -D__EVAL -g -O0 --apcs=interwork -I "D:\\ARM\INC\NXP\LPC17xx" -o "dutycycle.o" --omf_browse "dutycycle.crf" --depend "dutycycle.d")
